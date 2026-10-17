@@ -1,0 +1,10 @@
+{
+  "snapshot_id": "sample-001",
+  "sampled_at": "2026-10-09T18:00:00Z",
+  "schema_version": "1",
+  "tao_price_usd": "350",
+  "subnets": [
+    {"netuid": 1, "score": "80", "delta_price_1h": "0.02", "price_tao": "0.5"},
+    {"netuid": 2, "score": "70", "delta_price_1h": "0.08", "price_tao": "1"}
+  ]
+}
